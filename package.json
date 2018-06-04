@@ -10,9 +10,14 @@
   "license": "MIT",
   "devDependencies": {
     "eslint-config-airbnb-base": "^12.1.0",
-    "eslint-plugin-import": "^2.8.0"
+    "eslint-plugin-import": "^2.12.0"
   },
   "dependencies": {
-    "eslint": "^4.15.0"
+    "eslint": "^4.19.1",
+    "express": "^4.16.3",
+    "geographiclib": "^1.49.0",
+    "johnny-five": "^0.13.1",
+    "socket-io": "^1.0.0",
+    "socket.io": "^2.1.1"
   }
 }
